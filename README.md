@@ -27,7 +27,7 @@ After cleaning the data and visualizing the relationship between the `surge_mult
 ## Visual Proof
 *(The chart below highlights the 2.5x "Crisis Cliff" where customer ratings collapse.)*
 
-![EcoRide Surge vs Ratings](EcoRide_Crisis_scatterplot.jpg)
+![EcoRide Surge vs Ratings](EcoRide_Crisis_scatterplot.png)
 
 ---
 
